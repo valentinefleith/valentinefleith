@@ -22,6 +22,6 @@ Here are some ideas to get you started:
    </a>
    
    <a href="https://github.com/valentinefleith">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valentinefleith&theme=react&show_icons=true" alt="Valentine's GitHub page" height="200"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valentinefleith&theme=react&show_icons=true" alt="Valentine's GitHub page" height="200"?theme=catppuccin_mocha/>
    </a>
 </div>
