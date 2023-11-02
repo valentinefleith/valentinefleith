@@ -1,5 +1,6 @@
-### Hi there 👋
+NLP Master's student at PluriTAL and learner at 42 School, Paris. I'm currently diving into C programming, and I am Python enthusiast, especially for deep learning techniques.
 
+Eager to learn and open to collaborating on projects. Feel free to reach out !
 <!--
 **valentinefleith/valentinefleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
