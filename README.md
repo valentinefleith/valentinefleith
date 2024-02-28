@@ -1,6 +1,6 @@
 Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C programming, and I am Python enthusiast, especially for deep learning techniques.
 
-Eager to learn and open to collaborating on projects. Feel free to reach out !
+Eager to learn and open to collaborate on projects. Feel free to reach out !
 <!--
 **valentinefleith/valentinefleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </br>
 <div align="center"> 
    <a href="https://github.com/valentinefleith" >
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinefleith&hide=HTML&langs_count=3&theme=ayu-mirage"" alt="Valentine's GitHub languages" height="200"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinefleith&hide=HTML&langs_count=4&theme=ayu-mirage"" alt="Valentine's GitHub languages" height="200"/>
    </a>
    
    <a href="https://github.com/valentinefleith">
