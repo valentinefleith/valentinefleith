@@ -1,4 +1,4 @@
-Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C programming, and I am a Python enthusiast, especially for deep learning techniques.
+Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C programming, and Machine Learning / Deep Learning techniques in Python.
 
 Eager to learn and open to collaborate on projects. Feel free to reach out !
 <!--
