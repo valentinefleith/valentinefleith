@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </br>
 <div align="center"> 
    <a href="https://github.com/valentinefleith" >
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinefleith&hide=HTML&langs_count=4&theme=ayu-mirage"" alt="Valentine's GitHub languages" height="200"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinefleith&hide=HTML,jupyter%20notebook&langs_count=3&theme=ayu-mirage"" alt="Valentine's GitHub languages" height="200"/>
    </a>
    
    <a href="https://github.com/valentinefleith">
