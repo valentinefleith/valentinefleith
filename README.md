@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 </br>
 <div align="center"> 
    <a href="https://github.com/valentinefleith" >
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinefleith&hide=HTML,lua,Makefile,CSS,TeX,jupyter%20notebook&langs_count=4&theme=darcula&layout=compact"" alt="Valentine's GitHub languages" height="190" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinefleith&hide=HTML,lua,Makefile,CSS,TeX,jupyter%20notebook&langs_count=4&theme=darcula"" alt="Valentine's GitHub languages" height="200" />
    </a>
    
    <a href="https://github.com/valentinefleith">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valentinefleith&theme=darcula&show_icons=true&rank_icon=percentile" alt="Valentine's GitHub page" height="190"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valentinefleith&theme=darcula&show_icons=true&rank_icon=percentile" alt="Valentine's GitHub page" height="200"/>
    </a>
 </div>
