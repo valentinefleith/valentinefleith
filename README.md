@@ -9,6 +9,12 @@
   </a>
 </div>
 
+<div id="tech">
+  <img src="https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white" alt="Cpp Badge"/>
+  <img src="https://img.shields.io/badge/Bash-89E051?style=flat&logo=GNU%20Bash&logoColor=black" alt="sh Badge"/>
+</div>
+
 
 Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C programming, and Machine Learning / Deep Learning techniques in Python.
 
