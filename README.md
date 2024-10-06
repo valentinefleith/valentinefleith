@@ -18,7 +18,7 @@
 
 Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C programming, and Machine Learning / Deep Learning techniques in Python. Also playing with Rust sometimes.
 
-Eager to learn and open to collaborate on projects. Feel free to reach out !
+Eager to learn and open to collaborate on projects. Currently looking for an internship in NLP/ ML Engineering starting in february 2025. Feel free to reach out !
 <!--
 **valentinefleith/valentinefleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
