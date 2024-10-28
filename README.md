@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/valentine-fleith-20bba6216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/posts/valentine-fleith-20bba6216_cv-en-activity-7201528137623515138-1Pjr?utm_source=share&utm_medium=member_desktop">
+  <a href="https://www.linkedin.com/posts/valentine-fleith-20bba6216_resume-activity-7256620710855327744-f1h4?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/Resume-red?style=flat&logo=ReadMe&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -16,7 +16,7 @@
 </div>
 
 
-Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C programming, and Machine Learning / Deep Learning techniques in Python. Also playing with Rust sometimes.
+Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C/C++ programming, and Machine Learning / Deep Learning techniques in Python. Also playing with Rust sometimes.
 
 Eager to learn and open to collaborate on projects. Currently looking for an internship in NLP/ ML Engineering starting in february 2025. Feel free to reach out !
 <!--
