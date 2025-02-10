@@ -18,7 +18,7 @@
 
 Graduate student in NLP and learner at 42 School, Paris. I'm currently diving into C/C++ programming, and Machine Learning / Deep Learning techniques in Python. Also playing with Rust sometimes.
 
-Eager to learn and open to collaborate on projects. Currently looking for an internship in NLP/ ML Engineering starting in february 2025. Feel free to reach out !
+Eager to learn and open to collaborate on projects. Feel free to reach out !
 <!--
 **valentinefleith/valentinefleith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
    </a>
    
    <a href="https://github.com/valentinefleith">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valentinefleith&theme=darcula&show_icons=true&rank_icon=percentile" alt="Valentine's GitHub page" height="200"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valentinefleith&theme=darcula&show_icons=true" alt="Valentine's GitHub page" height="200"/>
    </a>
 </div>
